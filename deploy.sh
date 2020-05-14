@@ -23,6 +23,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 # 如果使用 travis 持续集成
-git push -f https://64b75cc384e6c85963ea464aff3498f7520e2e57@github.com/cangliuqi/docs.git master:gh-pages
+git push -f https://${access_token}@github.com/cangliuqi/docs.git master:gh-pages
 
 cd -
