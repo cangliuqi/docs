@@ -1,24 +1,37 @@
 language: node_js
-node_js: '11'
-branches:
-  only:
-    - master
-git:
-  quite: true
-depth: 1
-submodules: false
+#sudo: required
+node_js:
+  - "lts/*"
+cache:
+  directories:
+    - node_modules
+script:
+  - ./deploy.sh
+branch: master
 
-cache: yarn
-install:  yarn
-script:  yarn build
-deploy:
-  provider: pages
-  keep-history: true
-  skip_cleanup: true
-  github-token: $GITHUB_TOKEN
-  local-dir: ./dist/
-  on:
-    branch: gh-pages
+#language: node_js
+#node_js: '11'
+#branches:
+#  only:
+#    - master
+#git:
+#  quite: true
+#depth: 1
+#submodules: false
+#
+#cache: yarn
+#install:  yarn
+##script:  yarn build
+#script:
+#  - ./deploy.sh
+#deploy:
+#  provider: pages
+#  keep-history: true
+#  skip_cleanup: true
+#  github-token: $GITHUB_TOKEN
+#  local-dir: ./dist/
+#  on:
+#    branch: gh-pages
 
 
 
