@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d1c219c-478e-4a7b-a584-f25ebc7ecb07" name="Default Changelist" comment="第一次md提交">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/question/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/question/javascript/基础概念.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/question/javascript/背景.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/question/qrcode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\gitDir\blog\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bsEmbjXjA0HGH2yFW5pJuhyHWs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\gitDir\blog" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d1c219c-478e-4a7b-a584-f25ebc7ecb07" name="Default Changelist" comment="" />
+      <created>1589412560880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589412560880</updated>
+      <workItem from="1589412563550" duration="8380000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试提交代码是否通畅">
+      <created>1589412636208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589412636208</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试提交代码是否通畅">
+      <created>1589413074220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589413074220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试提交代码是否通畅" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交代码是否通畅" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1589435845755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589435845755" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1589412880638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1589412880638" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589413354301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589413354301" />
+    <state width="1222" height="272" key="GridCell.Tab.0.bottom" timestamp="1589426560946">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="272" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589426560946" />
+    <state width="1222" height="272" key="GridCell.Tab.0.center" timestamp="1589426560946">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="272" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589426560946" />
+    <state width="1222" height="272" key="GridCell.Tab.0.left" timestamp="1589426560946">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="272" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589426560946" />
+    <state width="1222" height="272" key="GridCell.Tab.0.right" timestamp="1589426560946">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="272" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589426560946" />
+    <state x="351" y="57" key="MultipleFileMergeDialog" timestamp="1589436568159">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="57" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1589436568159" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1589436526559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1589436526559" />
+    <state x="398" y="80" width="773" height="600" key="find.popup" timestamp="1589426116386">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="80" width="773" height="600" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1589426116386" />
+    <state x="322" y="132" key="git4idea.merge.GitPullDialog" timestamp="1589412821978">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="322" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1589412821978" />
+    <state x="28" y="36" key="new project wizard" timestamp="1589412955495">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="36" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589412955495" />
+  </component>
+</project>
