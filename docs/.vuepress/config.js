@@ -25,7 +25,7 @@ module.exports = {
             {
                 title: 'JavaScript',
                 collapsable: false,
-                children: ['/question/javascript/变量、作用域和内存问题.md']/*,'/question/javascript/basecontent/','/question/javascript/reftype/'*/
+                children: ['/question/javascript/作用域.md','/question/javascript/引用类型.md']/*,'/question/javascript/basecontent/','/question/javascript/reftype/'*/
             },
             /*{
                 title: 'Vue',
