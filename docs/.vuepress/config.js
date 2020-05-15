@@ -18,7 +18,7 @@ module.exports = {
         repoLabel: 'GitHub',
         nav: [
             { text: '首页', link: '/' },
-            { text: '每日一问',link:'/question/' }
+            { text: '每日一论',link:'/question/' }
         ],
         sidebarDepth: 1,
         sidebar: [
